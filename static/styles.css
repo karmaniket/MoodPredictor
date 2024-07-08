@@ -62,3 +62,13 @@ button[type="submit"]:hover {
     text-align: center;
     color: #333333;
 }
+h3 {
+    position: absolute;
+    bottom: 10px;
+    font-size: 13px;
+    color: #E8E8ED;
+    margin: 0px 0px 0px 10px;
+}
+a{
+    color: #E8E8ED;
+}
