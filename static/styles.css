@@ -72,3 +72,20 @@ h3 {
 a{
     color: #E8E8ED;
 }
+
+@media (max-width: 600px) {
+    .container {
+        width: 80%;
+        padding: 25px;
+    }
+    input[type="text"] {
+        font-size: 14px;
+    }
+    button[type="submit"] {
+        padding: 8px 20px;
+        font-size: 16px;
+    }
+    header h1 {
+        font-size: 22px;
+    }
+}
