@@ -3,7 +3,11 @@ function predictMood() {
     
     var text = document.getElementById("inputText").value.trim();
     if (!text) {
-        document.getElementById("mood").innerText = "I need some input to analyze ;";
+        document.getElementById("mood").innerText = "I need some input to analyze;";
+        return false;
+    }
+    if (/^\d+$/.test(text.replace(/\s+/g, ''))) {
+        document.getElementById("mood").innerText = "I need words to understand you;";
         return false;
     }
     var xhr = new XMLHttpRequest();
