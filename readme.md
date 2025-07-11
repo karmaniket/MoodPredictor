@@ -68,6 +68,9 @@ Click [here](https://moodpredictor-86ek.onrender.com/) to try!
     python render.py
 ```
 
+> [!IMPORTANT]
+> Python 3.8 - 3.11
+
 ## Deploy on Render
 
 - Push your code to a GitHub repository
