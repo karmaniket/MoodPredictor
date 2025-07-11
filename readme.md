@@ -4,7 +4,9 @@
 
 ## Demo
 
-You can try the app [here](https://moodpredictor-86ek.onrender.com/).
+Click [here](https://moodpredictor-86ek.onrender.com/) to try!
+
+[![Demo](https://img.youtube.com/vi/EK9OhYJPEU8/maxresdefault.jpg)](https://youtu.be/EK9OhYJPEU8)
 
 ## Features
 
@@ -89,6 +91,12 @@ You can try the app [here](https://moodpredictor-86ek.onrender.com/).
 ```bash
       Python 3
 ```
+
+## Future Improvement
+
+- Integrate self-learning capability to adapt the model with each user's new mood input
+- Enable real-time data collection from user interactions to improve dataset and prediction accuracy
+- Develop AI speaking chatbot to offer therapy, empathetic conversations during negative moods to support mental wellness
 
 ## License
 
